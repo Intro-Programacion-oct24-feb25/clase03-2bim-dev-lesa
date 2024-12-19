@@ -32,7 +32,7 @@ public class Ejemplo11 {
         4    6
         30   52
         */
-        
+        // usa tres arrelos pq usa la posicion n n del arreglo1 y arreglo2 para sumarlas y ubicarla en la misma posicion nn en sumarreglo
         int valor1;
         int valor2;
         
